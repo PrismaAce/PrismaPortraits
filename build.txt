@@ -1,0 +1,3 @@
+displayName = NPC Portraits (1.4.5)
+author = Prisma
+version = 0.1
